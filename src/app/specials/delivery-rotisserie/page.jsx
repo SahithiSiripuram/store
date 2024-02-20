@@ -3,8 +3,8 @@ import rotisserie from "../../../../public/images/specials/rotisserie2.webp";
 import Card from './Card';
 
 export const metadata = {
-  title: "GrocerGo | Delivery Rotisserie",
-  description: "GrocerGo delivery rotisserie page.",
+  title: "Pic-a-Dilly | Delivery Rotisserie",
+  description: "Pic-a-Dilly delivery rotisserie page.",
 };
 
 const page = () => {

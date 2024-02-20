@@ -89,7 +89,7 @@ const Recipes = () => {
 						</div>
             <p className="whitespace-normal text-gray-900">
               Welcome to our Recipes Page, your go-to destination for culinary
-              inspiration and gastronomic adventures! At GrocerGo, we believe
+              inspiration and gastronomic adventures! At Pic-a-Dilly, we believe
               that great meals begin with quality ingredients. That&apos;s why
               we&apos;ve curated a collection of delectable recipes designed to
               make the most of the products you can find in our store. Whether

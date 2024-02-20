@@ -20,7 +20,7 @@ const ThirdCards = () => {
         <div className="h-full drop-shadow-lg w-1/2 md:w-full transition duration-500 rounded-lg lg:rounded overflow-hidden relative">
           <Image
             src="/images/thirdcards/propa2.webp"
-            alt="don't forget to eat, your grocery haven for quality and savings"
+            alt="don't forget to eat, your Pic-a-Dillyy haven for quality and savings"
             width={900}
             height={506}
             loading="lazy"
@@ -45,7 +45,7 @@ const ThirdCards = () => {
         <div className="h-full drop-shadow-lg w-1/2 md:w-full transition duration-500 rounded-lg lg:rounded overflow-hidden relative">
           <Image
             src="/images/thirdcards/propa4.webp"
-            alt="to do list, go to grocergo, cook my favorite meal, be happy"
+            alt="to do list, go to Pic-a-Dilly, cook my favorite meal, be happy"
             width={900}
             height={506}
             loading="lazy"

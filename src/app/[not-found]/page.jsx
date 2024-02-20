@@ -3,7 +3,7 @@ import NoResults from "../../../public/images/mini-pages/no_results.webp";
 import Image from "next/image";
 
 export const metadata = {
-  title: "GrocerGo | Not found"
+  title: "Pic-a-Dilly | Not found"
 };
 
 const page = () => {

@@ -32,7 +32,7 @@ const Interface = () => {
         </div>
         <div className="select-none px-4 pt-2 pb-4 rounded-xl mb-12 sm:mb-14 bg-neutral-100 flex items-center justify-center z-10">
           <h2 className="text-5xl sm:text-3xl tracking-wide font-bold text-green-5 font-sansita">
-            Grocer<span className="text-green-3">Go</span>&nbsp;Blog
+            Pic-a-Dilly<span className="text-green-3">Go</span>&nbsp;Blog
           </h2>
         </div>
       </header>

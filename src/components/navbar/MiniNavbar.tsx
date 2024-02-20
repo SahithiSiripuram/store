@@ -30,14 +30,6 @@ export default function MiniNavbar() {
         animate="show"
         className="max-w-[2560px] flex justify-end items-center mx-auto"
       >
-        <motion.div variants={item} className="h-full">
-          <Link
-            href="/insurance"
-            className="h-full px-7 py-2 flex hover:bg-green-5  font-sans tracking-wide drop-shadow transition duration-100"
-          >
-            Insurance
-          </Link>
-        </motion.div>
 
         <motion.div variants={item} className="h-full">
           <Link
@@ -57,23 +49,6 @@ export default function MiniNavbar() {
           </Link>
         </motion.div>
 
-        <motion.div variants={item} className="h-full">
-          <Link
-            href="/how-to-buy"
-            className="h-full px-7 py-2 flex hover:bg-green-5  font-sans tracking-wide drop-shadow transition duration-100"
-          >
-            How To Buy
-          </Link>
-        </motion.div>
-
-        <motion.div variants={item} className="h-full">
-          <Link
-            href="/credit-card"
-            className="h-full px-7 py-2 flex relative group hover:bg-green-5 font-sans tracking-wide drop-shadow"
-          >
-            GrocerGo Credit Card
-          </Link>
-        </motion.div>
       </motion.div>
     </nav>
   );

@@ -2,7 +2,7 @@ import React from "react";
 import Interface from "./interface";
 
 export const metadata = {
-  title: "GrocerGo | Exchanges and Returns",
+  title: "Pic-a-Dilly | Exchanges and Returns",
   description: "We worry about the quality of our products.",
 };
 

@@ -285,28 +285,28 @@ const Footer = () => {
               <div className="flex gap-3 md:flex-row md:gap-4 flex-wrap">
                 <Link
                   target="_blank"
-                  aria-label="grocergo facebook page"
+                  aria-label="Pic-a-Dilly facebook page"
                   href="https://www.facebook.com/"
                 >
                   <FaFacebook className="w-6 h-6 md:w-8 md:h-8" />
                 </Link>
                 <Link
                   target="_blank"
-                  aria-label="grocergo instagram profile"
+                  aria-label="Pic-a-Dilly instagram profile"
                   href="https://www.instagram.com/"
                 >
                   <FaInstagram className="w-6 h-6 md:w-8 md:h-8" />
                 </Link>
                 <Link
                   target="_blank"
-                  aria-label="grocergo youtube channel"
+                  aria-label="Pic-a-Dilly youtube channel"
                   href="https://www.youtube.com/"
                 >
                   <FaYoutube className="w-6 h-6 md:w-8 md:h-8" />
                 </Link>
                 <Link
                   target="_blank"
-                  aria-label="grocergo twitter account"
+                  aria-label="Pic-a-Dilly twitter account"
                   href="https://www.twitter.com/"
                 >
                   <FaTwitter className="w-6 h-6 md:w-8 md:h-8" />
@@ -321,7 +321,7 @@ const Footer = () => {
                 <div className="border-2 w-full h-full border-white flex flex-col lg:gap-6 items-center justify-between p-6 rounded-lg">
                   <div className="w-24 lg:w-16 lg:h-16 aspect-square bg-green-3 rounded-lg flex flex-col gap-2 lg:gap-1 items-center justify-center p-2">
                     <h3 className="text-center text-xl lg:text-sm leading-4 lg:leading-[12px] font-sansita">
-                      Grocer
+                      Pic-a-Dilly
                       <br />
                       Go
                     </h3>
@@ -390,7 +390,7 @@ const Footer = () => {
                 href="/credit-card"
                 className="font-bold italic font-sansita w-20 h-7 flex items-center text-green-3 text-xl bg-clip-text"
               >
-                Grocer<span className="text-green-1">Go</span>
+                Pic-a-Dilly<span className="text-green-1">Go</span>
               </Link>
               <Image
                 src="/images/footer/alelo.webp"

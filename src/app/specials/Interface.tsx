@@ -21,7 +21,7 @@ const specials = [
     name: "Chefs",
     image: ChefIcon,
     description:
-      "Elevate Your Culinary Experience: Enlist the Expertise of Our Renowned Chef. At GrocerGo, we are dedicated to crafting unforgettable dining experiences. Our highly skilled chef brings a wealth of expertise to your table, curating exquisite menus tailored to your preferences and event. We pride ourselves on delivering culinary excellence and exceptional service that leaves a lasting impression on your guests.",
+      "Elevate Your Culinary Experience: Enlist the Expertise of Our Renowned Chef. At Pic-a-Dilly, we are dedicated to crafting unforgettable dining experiences. Our highly skilled chef brings a wealth of expertise to your table, curating exquisite menus tailored to your preferences and event. We pride ourselves on delivering culinary excellence and exceptional service that leaves a lasting impression on your guests.",
   },
   {
     name: "Delivery Rotisserie",

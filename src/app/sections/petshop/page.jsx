@@ -1,8 +1,8 @@
 import SectionPage from "../../../components/shared/SectionsPage/SectionsPage";
 
 export const metadata = {
-  title: "GrocerGo | Petshop",
-  description: "GrocerGo petshop page.",
+  title: "Pic-a-Dilly | Petshop",
+  description: "Pic-a-Dilly petshop page.",
 };
 
 const page = () => {

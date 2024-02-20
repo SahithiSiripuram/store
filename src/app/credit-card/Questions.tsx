@@ -25,14 +25,14 @@ const questionsArray = [
   {
     id: 2,
     question:
-      "How can I check the status of my GrocerGo Credit Card application?",
+      "How can I check the status of my Pic-a-Dilly Credit Card application?",
     answer:
       "To check the status of your application, please contact JPMorgan Customer Service.",
   },
   {
     id: 3,
     question:
-      "I haven't received or have lost my GrocerGo Credt Card. How do I request a replacement?",
+      "I haven't received or have lost my Pic-a-Dilly Credt Card. How do I request a replacement?",
     answer:
       "You can request a new card via JPMorgan app, through the following path: Services > Card Reissue > select the desired card.",
   },
@@ -40,7 +40,7 @@ const questionsArray = [
     id: 4,
     question: "When will my annuity be charged?",
     answer:
-      "The annual fee will only be charged once you activate your card, if applicable. If you have the GrocerGo Credit Card International, you won't incur any annual fees.",
+      "The annual fee will only be charged once you activate your card, if applicable. If you have the Pic-a-Dilly Credit Card International, you won't incur any annual fees.",
   },
   {
     id: 5,
@@ -65,26 +65,26 @@ const questionsArray = [
     id: 8,
     question: "How do the card discounts work?",
     answer:
-      "You can take advantage of card discounts on the website, app, or at any GrocerGo store. Simply activate the promotion card you want in 'My Discount' and pay with your GrocerGo card. If you follow these two steps and have eligible discount products in your cart, the discount will be applied at checkout. Please note that card discounts cannot be combined with other 'My Discount' promotions. The best discount will always be applied. Check the unit limits applicable to each offer in 'My Discount.' Offers are updated every 14 days, always on Thursdays. Online offers are valid for products sold and delivered by GrocerGo.",
+      "You can take advantage of card discounts on the website, app, or at any Pic-a-Dilly store. Simply activate the promotion card you want in 'My Discount' and pay with your Pic-a-Dilly card. If you follow these two steps and have eligible discount products in your cart, the discount will be applied at checkout. Please note that card discounts cannot be combined with other 'My Discount' promotions. The best discount will always be applied. Check the unit limits applicable to each offer in 'My Discount.' Offers are updated every 14 days, always on Thursdays. Online offers are valid for products sold and delivered by Pic-a-Dilly.",
   },
   {
     id: 9,
-    question: 'What is the "GrocerGo" points program, and how does it work?',
+    question: 'What is the "Pic-a-Dilly" points program, and how does it work?',
     answer:
-      "Your purchases with the GrocerGo card convert into points that can be exchanged for cashback on purchases of products at GrocerGo stores or airline miles. The more you use it, the more benefits you earn.",
+      "Your purchases with the Pic-a-Dilly card convert into points that can be exchanged for cashback on purchases of products at Pic-a-Dilly stores or airline miles. The more you use it, the more benefits you earn.",
   },
   {
     id: 10,
     question:
       "With which cards can I accumulate points in the rewards programs?",
     answer:
-      "You can earn points at GrocerGo using the GrocerGo Platinum and GrocerGo Black cards.",
+      "You can earn points at Pic-a-Dilly using the Pic-a-Dilly Platinum and Pic-a-Dilly Black cards.",
   },
   {
     id: 11,
     question: "How does the points accumulation work?",
     answer:
-      "GrocerGo Platinum: U$1.00 = 3 points on purchases made at GrocerGo, Extra, and Seven stores. U$1.00 = 1.5 points on purchases made at other establishments. GrocerGo Black: U$1.00 = 5 points on purchases made at GrocerGo, Extra, and Seven stores. $1.00 = 2 points on purchases made at other establishments. Important: The exchange rate used for calculating points will be based on the exchange rate on the closing day of the previous statement.For more information, please refer to the regulations.",
+      "Pic-a-Dilly Platinum: U$1.00 = 3 points on purchases made at Pic-a-Dilly, Extra, and Seven stores. U$1.00 = 1.5 points on purchases made at other establishments. Pic-a-Dilly Black: U$1.00 = 5 points on purchases made at Pic-a-Dilly, Extra, and Seven stores. $1.00 = 2 points on purchases made at other establishments. Important: The exchange rate used for calculating points will be based on the exchange rate on the closing day of the previous statement.For more information, please refer to the regulations.",
   },
   {
     id: 12,
@@ -94,9 +94,9 @@ const questionsArray = [
   },
   {
     id: 13,
-    question: "How does cashback work on purchases at GrocerGo?",
+    question: "How does cashback work on purchases at Pic-a-Dilly?",
     answer:
-      "After redeeming your points for cashback, you will visit a physical GrocerGo store and make a purchase with your GrocerGo card. The redeemed amount will be credited to your current or next billing statement, depending on the statement cutoff date. Customers have up to 60 days to use the cashback. After this period, if no purchases are made at GrocerGo stores, any unredeemed points will be automatically canceled. For more information, please refer to the regulations.",
+      "After redeeming your points for cashback, you will visit a physical Pic-a-Dilly store and make a purchase with your Pic-a-Dilly card. The redeemed amount will be credited to your current or next billing statement, depending on the statement cutoff date. Customers have up to 60 days to use the cashback. After this period, if no purchases are made at Pic-a-Dilly stores, any unredeemed points will be automatically canceled. For more information, please refer to the regulations.",
   },
   {
     id: 14,

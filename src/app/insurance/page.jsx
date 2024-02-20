@@ -2,7 +2,7 @@ import Image from "next/image";
 import Form from "./form";
 
 export const metadata = {
-  title: "GrocerGo | Insurance",
+  title: "Pic-a-Dilly | Insurance",
   description: "We take care of what's important to you.",
 };
 
@@ -15,7 +15,7 @@ const Insurance = () => {
       <header className="bg-green-5 h-80 xl:h-64 md:h-fit flex justify-between rounded-bl-[3rem] md:rounded-bl-none">
         <div className="m-16 md:m-8 md:space-y-2">
           <h1 className="text-3xl lg:text-2xl tracking-wide font-sansita">
-            <span className="italic text-green-1 brightness-125">GrocerGo</span>{" "}
+            <span className="italic text-green-1 brightness-125">Pic-a-Dilly</span>{" "}
             Insurance
           </h1>
           <p className="lg:text-lg md:text-base md:leading-5 md:whitespace-normal tracking-wide font-sansita">
@@ -65,7 +65,7 @@ const Insurance = () => {
         <p className="text-green-1 brightness-125 m-16 md:m-8 md:text-base">
           Contact us at{" "}
           <span className="text-white brightness-100">
-            insurance@grocergo.com
+            insurance@Pic-a-Dilly.com
           </span>{" "}
           for any inquiries or assistance.
         </p>

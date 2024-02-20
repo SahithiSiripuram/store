@@ -173,22 +173,11 @@ export default function MobileDrawer({ isOpen, setIsOpen }: Props) {
             >
               <ul className="flex flex-col mb-6 xl:mt-6">
                 <h2 className="text-xl font-semibold mb-6 ml-6">Menu</h2>
-                <Link onClick={() => setIsOpen(false)} href="/insurance">
-                  <li className="hover:bg-neutral-300 px-6 py-2">Insurance</li>
-                </Link>
                 <Link onClick={() => setIsOpen(false)} href="/contact-us">
                   <li className="hover:bg-neutral-300 px-6 py-2">Contact Us</li>
                 </Link>
                 <Link onClick={() => setIsOpen(false)} href="/our-stores">
                   <li className="hover:bg-neutral-300 px-6 py-2">Our Stores</li>
-                </Link>
-                <Link onClick={() => setIsOpen(false)} href="/how-to-buy">
-                  <li className="hover:bg-neutral-300 px-6 py-2">How To Buy</li>
-                </Link>
-                <Link onClick={() => setIsOpen(false)} href="/credit-card">
-                  <li className="hover:bg-neutral-300 px-6 py-2">
-                    GrocerGo Credit Card
-                  </li>
                 </Link>
               </ul>
               <ul className="flex flex-col mb-6 xl:mt-6">
@@ -206,7 +195,7 @@ export default function MobileDrawer({ isOpen, setIsOpen }: Props) {
                 </Link>
                 <Link onClick={() => setIsOpen(false)} href="/specials/blog">
                   <li className="hover:bg-neutral-300 px-6 py-2">
-                    GrocerGo Blog
+                    Pic-a-Dilly Blog
                   </li>
                 </Link>
                 <Link

@@ -7,31 +7,31 @@ const Regulations = () => {
       <div className="mx-auto max-w-[2560px]">
         <div className="flex justify-around lg:flex-wrap md:whitespace-normal">
           <Link
-            href="https://grocergo.vercel.app/credit-card"
+            href="https://Pic-a-Dilly.vercel.app/credit-card"
             className="p-12 lg:p-6"
           >
             Contract
           </Link>
           <Link
-            href="https://grocergo.vercel.app/credit-card"
+            href="https://Pic-a-Dilly.vercel.app/credit-card"
             className="p-12 lg:p-6"
           >
             Tariff
           </Link>
           <Link
-            href="https://grocergo.vercel.app/credit-card"
+            href="https://Pic-a-Dilly.vercel.app/credit-card"
             className="p-12 lg:p-6"
           >
             International Card Regulation
           </Link>
           <Link
-            href="https://grocergo.vercel.app/credit-card"
+            href="https://Pic-a-Dilly.vercel.app/credit-card"
             className="p-12 lg:p-6"
           >
             Platinum Card Regulation
           </Link>
           <Link
-            href="https://grocergo.vercel.app/credit-card"
+            href="https://Pic-a-Dilly.vercel.app/credit-card"
             className="p-12 lg:p-6"
           >
             Black Card Regulation
@@ -40,12 +40,12 @@ const Regulations = () => {
         <div className="whitespace-normal text-sm space-y-4">
           <div>
             <p>
-              To access all the benefits of GrocerGo stores and the GrocerGo
+              To access all the benefits of Pic-a-Dilly stores and the Pic-a-Dilly
               cards, such as discounts, installment plans, and a points program,
               you will be enrolled, at no additional cost, within 30 (thirty)
               days of credit card activation in the &quot;Customer Plus&quot;
-              Loyalty Club, managed by GrocerGo. If you prefer, you can already
-              enjoy the Customer Plus benefits by downloading the GrocerGo app
+              Loyalty Club, managed by Pic-a-Dilly. If you prefer, you can already
+              enjoy the Customer Plus benefits by downloading the Pic-a-Dilly app
               from your mobile app store, filling out the registration, and
               enjoying these benefits. Just don&apos;t forget to always activate
               the discounts.
@@ -55,7 +55,7 @@ const Regulations = () => {
           <div>
             <p>
               Important: Always remember to understand how all the benefits that
-              GrocerGo and Customer Plus bring work, as failure to comply with
+              Pic-a-Dilly and Customer Plus bring work, as failure to comply with
               the rules for granting benefits does not guarantee the advantages
               that are available to you.
             </p>
@@ -67,7 +67,7 @@ const Regulations = () => {
               information provided here will be entered directly into the
               JPMorgan CBD S.A. Credit Financing and Investment system, located
               at Rd. Ficticious Adress, 100, Seattle - Washington, which will
-              provide your credit analysis. GrocerGo simply provides quicker and
+              provide your credit analysis. Pic-a-Dilly simply provides quicker and
               easier access to the JPMorgan page, where the credit card proposal
               can be filled out.
             </p>

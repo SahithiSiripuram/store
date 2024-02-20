@@ -15,7 +15,7 @@ const Interface = () => {
         className="w-full h-full opacity-50 object-cover absolute top-0 left-0 -z-10"
       />
       <h1 className="text-center text-4xl font-bold text-gray-800 mb-10 font-sansita tracking-wide bg-white rounded-lg px-4 pt-3 pb-4 shadow">
-        Sell Your Products on&nbsp;<span className="italic text-green-5">Grocer<span className="text-green-3">Go</span></span>
+        Sell Your Products on&nbsp;<span className="italic text-green-5">Pic-a-Dilly<span className="text-green-3">Go</span></span>
       </h1>
       <div className="grid grid-cols-1 gap-10">
         <div className="bg-white rounded-lg p-8 shadow md:whitespace-normal">
@@ -24,7 +24,7 @@ const Interface = () => {
           </h2>
           <p className="text-gray-600 mb-4">
             Get your products in front of thousands of customers daily by
-            selling on GrocerGo.
+            selling on Pic-a-Dilly.
           </p>
           <p className="text-gray-600 mb-4">
             It&apos;s easy and affordable! Our partnership programs offer
@@ -46,7 +46,7 @@ const Interface = () => {
             offered by our partners.
           </p>
           <p className="text-gray-600 mb-4">
-            From local artisans to national brands, GrocerGo has a place for all
+            From local artisans to national brands, Pic-a-Dilly has a place for all
             businesses.
           </p>
           <Link

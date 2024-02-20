@@ -3,8 +3,8 @@ import Blog from "../../../../public/images/specials/blog-bg.webp";
 import Interface from './Interface';
 
 export const metadata = {
-  title: "GrocerGo | Blog",
-  description: "GrocerGo blog page.",
+  title: "Pic-a-Dilly | Blog",
+  description: "Pic-a-Dilly blog page.",
 };
 
 const page = () => {

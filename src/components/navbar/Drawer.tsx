@@ -180,7 +180,7 @@ export default function Drawer ({isOpen, isTop, setIsOpen}: Props)  {
 								</li>
 							</Link>
 							<Link onClick={() => setIsOpen(false)} href="/specials/blog">
-								<li className="hover:bg-neutral-300 px-6 py-2">GrocerGo Blog</li>
+								<li className="hover:bg-neutral-300 px-6 py-2">Pic-a-Dilly Blog</li>
 							</Link>
 							<Link onClick={() => setIsOpen(false)} href="/specials/space-you">
 								<li className="hover:bg-neutral-300 px-6 py-2">Space You</li>

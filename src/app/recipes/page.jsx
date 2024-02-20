@@ -4,7 +4,7 @@ import BG from "../../../public/images/others/recipe-bg.webp";
 import Recipes from './Recipes';
 
 export const metadata = {
-  title: "GrocerGo | Recipes",
+  title: "Pic-a-Dilly | Recipes",
   description: "Thousands of recipes at your disposal.",
 };
 

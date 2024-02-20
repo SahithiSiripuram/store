@@ -3,8 +3,8 @@ import restaurant from "../../../../public/images/specials/restaurant3.webp";
 import Card from "./Card";
 
 export const metadata = {
-  title: "GrocerGo | Chefs",
-  description: "GrocerGo chefs page.",
+  title: "Pic-a-Dilly | Chefs",
+  description: "Pic-a-Dilly chefs page.",
 };
 
 const Page = () => {

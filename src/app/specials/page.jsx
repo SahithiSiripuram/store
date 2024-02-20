@@ -1,8 +1,8 @@
 import Interface from "./Interface";
 
 export const metadata = {
-  title: "GrocerGo | Specials",
-  description: "GrocerGo specials page.",
+  title: "Pic-a-Dilly | Specials",
+  description: "Pic-a-Dilly specials page.",
 };
 
 const page = () => {

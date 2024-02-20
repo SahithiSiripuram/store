@@ -10,7 +10,7 @@ const HowToApp = (props: Props) => {
       <div className="max-w-[2560px] mx-auto space-y-16">
 				<h3 className="text-3xl font-bold tracking-wide font-sansita xxl:whitespace-normal xxs:flex-wrap xxs:flex">
         See how to use your discounts from the&nbsp;
-        <span className="italic text-green-3 brightness-125">GrocerGo</span>
+        <span className="italic text-green-3 brightness-125">Pic-a-Dilly</span>
         &nbsp;Credit Card
       </h3>
       <div>
@@ -19,7 +19,7 @@ const HowToApp = (props: Props) => {
             <AiFillAppstore className="w-20 h-20 min-w-[80px] sm:min-w-[60px]" />
             <p>
               1 - Activate the offers in the &quot;My Discount&quot; section
-              from the GrocerGo App
+              from the Pic-a-Dilly App
             </p>
           </div>
           <div className="flex items-center xs:items-start gap-2 w-1/3 xxl:w-fit">
@@ -33,7 +33,7 @@ const HowToApp = (props: Props) => {
             <BiCreditCardFront className="w-20 h-20 min-w-[80px] sm:min-w-[60px]" />
             <p>
               3 - The eligible discounts will be applied at the conclusion of
-              your purchases when using the GrocerGo Credit Card for payment
+              your purchases when using the Pic-a-Dilly Credit Card for payment
             </p>
           </div>
         </div>
@@ -41,7 +41,7 @@ const HowToApp = (props: Props) => {
       <p className="font-[350] xxl:whitespace-normal text-sm">
         Discounts cannot be combined with other &quot;My Discount&quot;
         promotions. Please review the unit-specific limits. Online offers are
-        valid for products sold and delivered by GrocerGo
+        valid for products sold and delivered by Pic-a-Dilly
       </p>
 			</div>
       

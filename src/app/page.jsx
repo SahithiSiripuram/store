@@ -1,9 +1,9 @@
 import Homepage from './homepage';
 
 export const metadata = {
-  title: "GrocerGo | Fresh Produce For Your Family",
-  description: "Go grocery shopping online wherever you are.",
-	keywords: ["grocery store online", "grocery", "buy food online", "buy food"]
+  title: "Pic-a-Dilly",
+  description: " Fresh food, from farm to your home",
+	keywords: ["Pic-a-Dillyy store online", "Pic-a-Dillyy", "buy food online", "buy food"]
 };
 
 export default function Home() {

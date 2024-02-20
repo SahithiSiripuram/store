@@ -3,7 +3,7 @@ import BG from "../../../public/images/others/working-bg.webp";
 import Form from "./form";
 
 export const metadata = {
-  title: "GrocerGo | Work With Us",
+  title: "Pic-a-Dilly | Work With Us",
   description: "Join the best of the bests.",
 };
 

@@ -130,7 +130,7 @@ const Delivery = () => {
                       transition={{ duration: 0.3 }}
                     >
                       <p className="text-neutral-500 text-left leading-6">
-                        Visit the GrocerGo website or app and select the
+                        Visit the Pic-a-Dilly website or app and select the
                         &apos;Right On&apos; option, available for purchases
                         until 5:00 PM, with a limit of up to 20 units per order.
                         Please check the availability of this option in your
@@ -194,7 +194,7 @@ const Delivery = () => {
                         In this option, there is no limit on items, allowing you
                         to secure everything for your substantial purchase.
                         Furthermore, we deliver orders to all cities where
-                        GrocerGo operates, including inland areas, coastal
+                        Pic-a-Dilly operates, including inland areas, coastal
                         regions, and mountainous areas.
                       </p>
                     </motion.div>
@@ -250,7 +250,7 @@ const Delivery = () => {
                       transition={{ duration: 0.3 }}
                     >
 											<p className="text-neutral-500 text-left leading-6">
-Make your purchase on the GrocerGo website or app, select
+Make your purchase on the Pic-a-Dilly website or app, select
                       the Click and Collect option, and upon approval, we will
                       send an email, push notification, or SMS informing you of
                       the availability for pickup. Please note that this option
