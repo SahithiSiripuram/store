@@ -62,9 +62,9 @@ const FirstCards = () => {
           pantry essentials, and more, all at affordable prices. With speedy and
           reliable delivery, we bring the store to your doorstep. Our commitment
           to freshness, secure online ordering, and community values make us
-          your ideal Pic-a-Dillyy partner. Shop anytime, explore our culinary
-          inspiration, and experience Pic-a-Dillyy shopping reimagined. Welcome to
-          Pic-a-Dilly - where every purchase is a pleasure!&nbsp;&nbsp;&quot;
+          your ideal Picc-a-Dillyy partner. Shop anytime, explore our culinary
+          inspiration, and experience Picc-a-Dillyy shopping reimagined. Welcome to
+          Picc-a-Dilly - where every purchase is a pleasure!&nbsp;&nbsp;&quot;
         </p>
       </div>
 

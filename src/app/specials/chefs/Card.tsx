@@ -179,13 +179,13 @@ const Card = () => {
                   <h3
                     className="text-5xl lg:text-4xl xs:text-3xl font-semibold font-sansita tracking-wide text-gray-800 italic"
                   >
-                    Pic-a-Dilly<span className="text-green-4">Go</span>&nbsp;Chef
+                    Picc-a-Dilly<span className="text-green-4">Go</span>&nbsp;Chef
                   </h3>
                   <p
                     className="text-xl lg:text-base xs:text-sm text-gray-800 leading-6"
                   >
                     Elevate Your Culinary Experience: Enlist the Expertise of
-                    Our Renowned Chef. At Pic-a-Dilly, we are dedicated to crafting
+                    Our Renowned Chef. At Picc-a-Dilly, we are dedicated to crafting
                     unforgettable dining experiences. Our highly skilled chef
                     brings a wealth of expertise to your table, curating
                     exquisite menus tailored to your preferences and event. We
@@ -222,11 +222,11 @@ const Card = () => {
         <div className="relative flex flex-col items-center justify-center p-12 md:p-8 bg-white rounded-lg drop-shadow-sm">
           <div className="flex flex-col items-center justify-center space-y-8">
             <h3 className="text-5xl lg:text-4xl xs:text-3xl font-semibold font-sansita tracking-wide text-gray-800 italic">
-              Pic-a-Dilly<span className="text-green-4">Go</span>&nbsp;Chef
+              Picc-a-Dilly<span className="text-green-4">Go</span>&nbsp;Chef
             </h3>
             <p className="text-xl lg:text-base xs:text-sm text-gray-800 leading-6">
               Elevate Your Culinary Experience: Enlist the Expertise of Our
-              Renowned Chef. At Pic-a-Dilly, we are dedicated to crafting
+              Renowned Chef. At Picc-a-Dilly, we are dedicated to crafting
               unforgettable dining experiences. Our highly skilled chef brings a
               wealth of expertise to your table, curating exquisite menus
               tailored to your preferences and event. We pride ourselves on

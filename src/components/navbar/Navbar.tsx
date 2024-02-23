@@ -126,11 +126,11 @@ const Navbar = () => {
           <MobileDrawer isOpen={isOpen} setIsOpen={setIsOpen} />
           {/* LOGO */}
           <Link
-            aria-label="Pic-a-Dilly logo, click to go to the homepage"
+            aria-label="Picc-a-Dilly logo, click to go to the homepage"
             href="/"
             className={`font-bold font-sansita tracking-wide italic flex items-center text-green-5 text-2xl xl:h-full xl:items-end xl:pb-1`}
           >
-            Pic-a-Dilly
+            Picc-a-Dilly
           </Link>
           <SearchBar />
           <Login />

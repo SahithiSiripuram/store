@@ -4,7 +4,7 @@ import pageBG from "../../../public/images/others/settings-bg.webp";
 import Content from "./Content";
 
 export const metadata = {
-  title: "Pic-a-Dilly | My Account",
+  title: "Picc-a-Dilly | My Account",
   description: "Check informations about your account.",
 };
 

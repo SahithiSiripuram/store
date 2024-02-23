@@ -4,7 +4,7 @@ import BG from '../../../public/images/others/favourite-bg.webp';
 import Content from './Content';
 
 export const metadata = {
-  title: "Pic-a-Dilly | My favourites",
+  title: "Picc-a-Dilly | My favourites",
 };
 
 const Page = () => {

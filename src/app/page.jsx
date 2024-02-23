@@ -1,9 +1,9 @@
 import Homepage from './homepage';
 
 export const metadata = {
-  title: "Pic-a-Dilly",
+  title: "Picc-a-Dilly",
   description: " Fresh food, from farm to your home",
-	keywords: ["Pic-a-Dillyy store online", "Pic-a-Dillyy", "buy food online", "buy food"]
+	keywords: ["Picc-a-Dillyy store online", "Picc-a-Dillyy", "buy food online", "buy food"]
 };
 
 export default function Home() {

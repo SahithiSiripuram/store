@@ -10,7 +10,7 @@ export async function generateMetadata({
   const productName = CapitalizeWords(params.product);
 
   return {
-    title: `Pic-a-Dilly | ${productName}`,
+    title: `Picc-a-Dilly | ${productName}`,
   };
 }
 

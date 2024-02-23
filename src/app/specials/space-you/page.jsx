@@ -10,8 +10,8 @@ import Spa7 from '../../../../public/images/specials/spa7.webp';
 import BG from "../../../../public/images/specials/spa-bg.webp";
 
 export const metadata = {
-  title: "Pic-a-Dilly | Space You",
-  description: "Pic-a-Dilly space you page.",
+  title: "Picc-a-Dilly | Space You",
+  description: "Picc-a-Dilly space you page.",
 };
 
 const page = () => {
@@ -36,7 +36,7 @@ const page = () => {
         <p className="tracking-wide text-lg text-gray-600 whitespace-normal leading-6 w-1/2 sm:w-full sm:text-base xs:text-sm">
           Customers who hold our credit cards are entitled to a complimentary
           monthly spa session, which can be availed at any of our spa facilities
-          located within every Pic-a-Dilly store.
+          located within every Picc-a-Dilly store.
         </p>
       </header>
       <section className="space-y-16 sm:space-y-8 xs:space-y-4 z-10">
@@ -110,7 +110,7 @@ const page = () => {
                 glow as you take in the tranquil surroundings.
               </p>
               <p className="text-neutral-200 text-left sm:text-sm">
-                With spa centers conveniently located in every Pic-a-Dilly store,
+                With spa centers conveniently located in every Picc-a-Dilly store,
                 you can easily incorporate a spa visit into your shopping
                 routine or schedule a separate appointment for your convenience.
               </p>

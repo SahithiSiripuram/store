@@ -2,7 +2,7 @@ import React from 'react'
 import About from './interface'
 
 export const metadata = {
-  title: "Pic-a-Dilly | Who We Are",
+  title: "Picc-a-Dilly | Who We Are",
   description: "We let you know who we are.",
 };
 

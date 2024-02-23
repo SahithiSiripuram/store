@@ -1,7 +1,7 @@
 import Container from "./Container";
 
 export const metadata = {
-  title: "Pic-a-Dilly | Search results"
+  title: "Picc-a-Dilly | Search results"
 };
 
 function SearchResults() {

@@ -81,7 +81,7 @@ const Cards = () => {
             {/* TEXTS */}
             <div className="space-y-6 md:text-center">
               <h4 className="font-bold ">
-                Pic-a-Dilly JPMorgan Credit Card International
+                Picc-a-Dilly JPMorgan Credit Card International
               </h4>
               <div className="flex gap-2 md:flex-col md:text-center">
                 <div className="space-y-4 md:flex md:flex-col md:items-center">
@@ -92,7 +92,7 @@ const Cards = () => {
                     </h5>
                     <p className="leading-5 text-sm font-sansitalight">
                       Activate through &quot;My Discount&quot; and pay with the
-                      Pic-a-Dilly Card for cheeses, wines, specialty beers, and
+                      Picc-a-Dilly Card for cheeses, wines, specialty beers, and
                       exclusive brands (MiBaloon, Conquer, and NinjaIn).
                     </p>
                   </div>
@@ -129,7 +129,7 @@ const Cards = () => {
               <div className="text-sm whitespace-normal">
                 <h5 className="font-bold">Card subject to credit approval.</h5>
                 <p className="font-[350]">
-                  https://www.Pic-a-Dilly.com/credit-card
+                  https://www.Picc-a-Dilly.com/credit-card
                 </p>
                 <p className="font-[350]">
                   Refer to rules and benefits&apos; validity on the Credit Card
@@ -154,7 +154,7 @@ const Cards = () => {
             {/* TEXTS */}
             <div className="space-y-6 md:text-center">
               <h4 className="font-bold ">
-                Pic-a-Dilly JPMorgan Credit Card Platinum
+                Picc-a-Dilly JPMorgan Credit Card Platinum
               </h4>
               <div className="flex gap-2 md:flex-col md:text-center">
                 <div className="space-y-4 md:flex md:flex-col md:items-center">
@@ -165,7 +165,7 @@ const Cards = () => {
                     </h5>
                     <p className="leading-5 text-sm font-sansitalight">
                       Activate through &quot;My Discount&quot; and pay with the
-                      Pic-a-Dilly Card for cheeses, wines, specialty beers, and
+                      Picc-a-Dilly Card for cheeses, wines, specialty beers, and
                       exclusive brands (MiBaloon, Conquer, and NinjaIn).
                     </p>
                   </div>
@@ -226,7 +226,7 @@ const Cards = () => {
               <div className="text-sm whitespace-normal">
                 <h5 className="font-bold">Card subject to credit approval.</h5>
                 <p className="font-[350]">
-                  https://www.Pic-a-Dilly.com/credit-card
+                  https://www.Picc-a-Dilly.com/credit-card
                 </p>
                 <p className="font-[350]">
                   Refer to rules and benefits&apos; validity on the Credit Card
@@ -251,7 +251,7 @@ const Cards = () => {
             {/* TEXTS */}
             <div className="space-y-6 md:text-center">
               <h4 className="font-bold ">
-                Pic-a-Dilly JPMorgan Credit Card Black
+                Picc-a-Dilly JPMorgan Credit Card Black
               </h4>
               <div className="flex gap-2 md:flex-col md:text-center">
                 <div className="space-y-4 md:flex md:flex-col md:items-center">
@@ -262,7 +262,7 @@ const Cards = () => {
                     </h5>
                     <p className="leading-5 text-sm font-sansitalight">
                       Activate through &quot;My Discount&quot; and pay with the
-                      Pic-a-Dilly Card for cheeses, wines, specialty beers, and
+                      Picc-a-Dilly Card for cheeses, wines, specialty beers, and
                       exclusive brands (MiBaloon, Conquer, and NinjaIn).
                     </p>
                   </div>
@@ -343,7 +343,7 @@ const Cards = () => {
               <div className="text-sm whitespace-normal">
                 <h5 className="font-bold">Card subject to credit approval.</h5>
                 <p className="font-[350]">
-                  https://www.Pic-a-Dilly.com/credit-card
+                  https://www.Picc-a-Dilly.com/credit-card
                 </p>
                 <p className="font-[350]">
                   Refer to rules and benefits&apos; validity on the Credit Card

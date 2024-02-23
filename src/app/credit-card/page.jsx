@@ -8,9 +8,9 @@ import Callcenter from "./Callcenter";
 import Regulations from "./Regulations";
 
 export const metadata = {
-  title: "Pic-a-Dilly | Credit Card",
+  title: "Picc-a-Dilly | Credit Card",
   description:
-    "Purchasing online at Pic-a-Dilly is effortless, straightforward, and convenient.",
+    "Purchasing online at Picc-a-Dilly is effortless, straightforward, and convenient.",
 };
 
 const page = () => {

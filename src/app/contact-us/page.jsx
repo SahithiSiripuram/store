@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Form from './form';
 
 export const metadata = {
-  title: "Pic-a-Dilly | Contact Us",
+  title: "Picc-a-Dilly | Contact Us",
   description: "If you have any questions, feedback, or inquiries.",
 };
 

@@ -24,7 +24,7 @@ const About = () => {
       >
         <h1 className="text-4xl font-bold text-gray-800 mb-6 mx-auto font-sansita tracking-wider bg-clip-text text-transparent bg-gradient-to-r from-green-3 to-green-5">Who We Are</h1>
         <p className="text-lg text-gray-700 mb-2 whitespace-normal">
-          Pic-a-Dilly is your one-stop solution for all your Pic-a-Dillyy needs. Our
+          Picc-a-Dilly is your one-stop solution for all your Picc-a-Dillyy needs. Our
           team is dedicated to providing our customers with a seamless online
           shopping experience and the highest quality products. We strive to
           maintain long-term relationships with our suppliers and ensure the
@@ -35,37 +35,37 @@ const About = () => {
           service, and our dedicated team is committed to delivering on this
           promise. We are continuously working to expand our product offerings
           and enhance the overall shopping experience. Whether you&apos;re a
-          frequent visitor or just stopping by for a few essentials, Pic-a-Dilly is
-          your go-to destination for all things Pic-a-Dillyy.
+          frequent visitor or just stopping by for a few essentials, Picc-a-Dilly is
+          your go-to destination for all things Picc-a-Dillyy.
         </p>
         <h2 className="text-xl mb-2 font-bold text-gray-700">Our Mission</h2>
         <p className="text-lg mb-4 text-gray-700 whitespace-normal">
-          At Pic-a-Dilly, our mission is simple: to revolutionize your Pic-a-Dillyy
+          At Picc-a-Dilly, our mission is simple: to revolutionize your Picc-a-Dillyy
           shopping experience. We&apos;re dedicated to bringing the freshest,
           highest-quality products directly to your doorstep. We work tirelessly
           to ensure convenience, affordability, and speedy delivery. Your trust
-          in us fuels our commitment to making Pic-a-Dillyy shopping easier and more
+          in us fuels our commitment to making Picc-a-Dillyy shopping easier and more
           enjoyable.
         </p>
         <h2 className="text-xl mb-2 font-bold text-gray-700">
           Quality Guaranteed
         </h2>
         <p className="text-lg mb-4 text-gray-700 whitespace-normal">
-          Quality is the heart of Pic-a-Dilly. We source our products carefully and
+          Quality is the heart of Picc-a-Dilly. We source our products carefully and
           rigorously, ensuring that everything you receive is of the highest
           standard. From farm-fresh produce to pantry staples, we stand behind
-          every item we deliver. With Pic-a-Dilly, you can shop with confidence,
+          every item we deliver. With Picc-a-Dilly, you can shop with confidence,
           knowing that quality is our promise to you.
         </p>
         <h2 className="text-xl mb-2 font-bold text-gray-700">
-          Your Trusted Pic-a-Dillyy Partner
+          Your Trusted Picc-a-Dillyy Partner
         </h2>
         <p className="text-lg mb-4 text-gray-700 whitespace-normal">
-          Thank you for choosing Pic-a-Dilly as your trusted Pic-a-Dillyy partner.
+          Thank you for choosing Picc-a-Dilly as your trusted Picc-a-Dillyy partner.
           We&apos;re more than an online store; we&apos;re your ally in making
           everyday life easier. Our team is dedicated to serving you, and
-          we&apos;re here to meet your Pic-a-Dillyy needs with excellence, every
-          time. Together, we&apos;ll make Pic-a-Dillyy shopping a breeze.
+          we&apos;re here to meet your Picc-a-Dillyy needs with excellence, every
+          time. Together, we&apos;ll make Picc-a-Dillyy shopping a breeze.
         </p>
       </motion.div>
     </section>

@@ -2,7 +2,7 @@ import React from "react";
 import Interface from "./interface";
 
 export const metadata = {
-  title: "Pic-a-Dilly | Marketplace",
+  title: "Picc-a-Dilly | Marketplace",
   description: "Sell your products.",
 };
 

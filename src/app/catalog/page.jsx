@@ -3,7 +3,7 @@ import HeaderBG from "../../../public/images/others/catalog-header.webp";
 import Interface from './Interface';
 
 export const metadata = {
-  title: "Pic-a-Dilly | Catalog",
+  title: "Picc-a-Dilly | Catalog",
 };
 
 const page = () => {

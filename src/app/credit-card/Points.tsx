@@ -10,7 +10,7 @@ const Points = (props: Props) => {
     <div className="flex flex-col gap-16">
       <div className="flex w-full gap-8 xl:gap-16 xl:flex-col items-center justify-center">
         <h3 className="font-bold w-1/2 text-3xl xl:w-full xl:text-center font-sansita tracking-wide whitespace-normal">
-          Paying using your <span className="text-green-4">Pic-a-Dilly cards</span>{" "}
+          Paying using your <span className="text-green-4">Picc-a-Dilly cards</span>{" "}
           earns you airline miles or cashback rewards with us
         </h3>
         <h4 className="w-1/2 xl:w-fit border border-green-4 py-2 px-4 flex items-center justify-center text-xl sm:text-sm gg:flex-wrap">

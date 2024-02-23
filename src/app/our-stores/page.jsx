@@ -1,7 +1,7 @@
 import Interface from "./Interface";
 
 export const metadata = {
-  title: "Pic-a-Dilly | Our Stores",
+  title: "Picc-a-Dilly | Our Stores",
   description: "Visit us in major cities across the country.",
 };
 

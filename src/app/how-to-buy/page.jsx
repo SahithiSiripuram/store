@@ -9,9 +9,9 @@ import Money from '../../../public/images/mini-pages/money.webp'
 import Apple from '../../../public/images/mini-pages/apple-icon.webp'
 
 export const metadata = {
-  title: "Pic-a-Dilly | How To Buy",
+  title: "Picc-a-Dilly | How To Buy",
   description:
-    "Purchasing online at Pic-a-Dilly is effortless, straightforward, and convenient.",
+    "Purchasing online at Picc-a-Dilly is effortless, straightforward, and convenient.",
 };
 
 const page = () => {
@@ -20,7 +20,7 @@ const page = () => {
       <header className="flex sm:flex-col sm:items-center pt-16 lg:pt-8 justify-around md:pr-4 sm:px-4">
         <div className="relative">
           <Image
-            src="/images/mini-pages/Pic-a-Dillyy-bag.webp"
+            src="/images/mini-pages/Picc-a-Dillyy-bag.webp"
             alt="bag full of vegetables"
             priority
             width={620}
@@ -32,7 +32,7 @@ const page = () => {
         <div className="flex flex-col justify-center gap-8 w-3/5 sm:w-full">
           <h2 className="text-5xl lg:text-3xl font-bold text-green-3 whitespace-normal leading-normal tracking-wide font-sansita">
             Purchasing online at{" "}
-            <span className="italic text-green-5">Pic-a-Dilly</span> is effortless,
+            <span className="italic text-green-5">Picc-a-Dilly</span> is effortless,
             straightforward, and convenient
           </h2>
           <p className="text-3xl lg:text-xl xs:text-base sm:whitespace-normal text-neutral-800 font-thin font-sansita tracking-wide leading-8">

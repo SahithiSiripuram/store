@@ -195,7 +195,7 @@ export default function MobileDrawer({ isOpen, setIsOpen }: Props) {
                 </Link>
                 <Link onClick={() => setIsOpen(false)} href="/specials/blog">
                   <li className="hover:bg-neutral-300 px-6 py-2">
-                    Pic-a-Dilly Blog
+                    Picc-a-Dilly Blog
                   </li>
                 </Link>
                 <Link

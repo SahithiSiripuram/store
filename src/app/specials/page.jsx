@@ -1,8 +1,8 @@
 import Interface from "./Interface";
 
 export const metadata = {
-  title: "Pic-a-Dilly | Specials",
-  description: "Pic-a-Dilly specials page.",
+  title: "Picc-a-Dilly | Specials",
+  description: "Picc-a-Dilly specials page.",
 };
 
 const page = () => {

@@ -41,7 +41,7 @@ const Links = () => {
               : "hover-bg-effect"
           }`}
         >
-          <p className="font-semibold">Pic-a-Dilly Blog</p>
+          <p className="font-semibold">Picc-a-Dilly Blog</p>
         </Link>
       </li>
 

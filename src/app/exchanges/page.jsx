@@ -2,7 +2,7 @@ import React from "react";
 import Interface from "./interface";
 
 export const metadata = {
-  title: "Pic-a-Dilly | Exchanges and Returns",
+  title: "Picc-a-Dilly | Exchanges and Returns",
   description: "We worry about the quality of our products.",
 };
 
